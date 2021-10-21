@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox-sanx.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Text Box Appear instance0000" x="0" y="0" width="1161" height="212" frameX="-13" frameY="-96" frameWidth="1229" frameHeight="409"/>
+	<SubTexture name="Text Box Appear instance0001" x="0" y="212" width="1185" height="300" frameX="-14" frameY="-48" frameWidth="1229" frameHeight="409"/>
+	<SubTexture name="Text Box Appear instance0002" x="0" y="512" width="1214" height="389" frameX="-9" frameY="0" frameWidth="1229" frameHeight="409"/>
+	<SubTexture name="Text Box Appear instance0003" x="0" y="901" width="1229" height="396" frameX="0" frameY="-13" frameWidth="1229" frameHeight="409"/>
+</TextureAtlas>

@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SANXpixels.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sanx Dead confirm0000" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0001" x="74" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0002" x="74" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0003" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0004" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0005" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0006" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0007" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0008" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0009" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0010" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0011" x="148" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0012" x="74" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0013" x="74" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0014" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0015" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0016" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0017" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0018" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0019" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0020" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0021" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0022" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0023" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0024" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0025" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0026" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead confirm0027" x="0" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0000" x="740" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0001" x="740" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0002" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0003" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0004" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0005" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0006" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0007" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0008" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0009" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0010" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0011" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0012" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0013" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0014" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0015" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0016" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0017" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0018" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0019" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0020" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0021" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0022" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0023" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN0024" x="814" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0000" x="888" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0001" x="888" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0002" x="0" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0003" x="0" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0004" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0005" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0006" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0007" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0008" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0009" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0010" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0011" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0012" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0013" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0014" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0015" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0016" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0017" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0018" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0019" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0020" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0021" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0022" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0023" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0024" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE DOWN MISS0025" x="74" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0000" x="148" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0001" x="148" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0002" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0003" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0004" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0005" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0006" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0007" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0008" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0009" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0010" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0011" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0012" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0013" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0014" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0015" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0016" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0017" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0018" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0019" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0020" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0021" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0022" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0023" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0024" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT0025" x="222" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0000" x="296" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0001" x="296" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0002" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0003" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0004" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0005" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0006" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0007" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0008" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0009" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0010" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0011" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0012" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0013" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0014" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0015" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0016" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0017" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0018" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0019" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0020" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0021" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0022" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0023" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0024" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0025" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE LEFT MISS0026" x="370" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0000" x="444" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0001" x="444" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0002" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0003" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0004" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0005" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0006" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0007" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0008" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0009" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0010" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0011" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0012" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0013" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0014" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0015" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0016" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0017" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0018" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0019" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0020" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0021" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0022" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0023" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE RIGHT0024" x="518" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0000" x="592" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0001" x="592" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0002" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0003" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0004" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0005" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0006" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0007" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0008" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0009" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0010" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0011" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0012" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0013" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0014" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0015" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0016" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0017" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0018" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0019" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0020" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0021" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0022" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0023" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0024" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0025" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0026" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0027" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0028" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0029" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP0030" x="666" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0000" x="740" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0001" x="740" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0002" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0003" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0004" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0005" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0006" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0007" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0008" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0009" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0010" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0011" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0012" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0013" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0014" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0015" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0016" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0017" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0018" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0019" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTE UP MISS0020" x="814" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0000" x="888" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0001" x="888" y="77" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0002" x="0" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0003" x="0" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0004" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0005" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0006" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0007" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0008" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0009" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0010" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0011" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0012" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0013" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0014" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0015" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0016" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0017" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0018" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0019" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0020" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0021" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0022" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0023" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0024" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx NOTERIGHT MISS0025" x="74" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0000" x="148" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0001" x="222" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0002" x="296" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0003" x="296" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0004" x="370" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0005" x="370" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0006" x="444" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0007" x="518" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0008" x="592" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0009" x="592" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0010" x="666" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0011" x="666" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx dies0012" x="222" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0013" x="296" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0014" x="296" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0015" x="370" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0016" x="370" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0017" x="444" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0018" x="444" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0019" x="518" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0020" x="518" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0021" x="592" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx dies0022" x="592" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead Loop0001" x="666" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx Dead Loop0002" x="666" y="0" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0000" x="740" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0001" x="740" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0002" x="814" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0003" x="814" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0004" x="740" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0005" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0006" x="0" y="231" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0007" x="0" y="231" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0008" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0009" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0010" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0011" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0012" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0013" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0014" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0015" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0016" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0017" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0018" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0019" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0020" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0021" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0022" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0023" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0024" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0025" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0026" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0027" x="888" y="154" width="74" height="77"/>
+	<SubTexture name="Sanx idle dance0028" x="888" y="154" width="74" height="77"/>
+</TextureAtlas>

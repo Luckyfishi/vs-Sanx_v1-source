@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="EATnote.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EATdownnote0000" x="0" y="0" width="155" height="152" frameX="-14" frameY="-7" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATdownnote0001" x="0" y="0" width="155" height="152" frameX="-14" frameY="-7" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATdownnote0002" x="155" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0003" x="342" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0004" x="529" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0005" x="529" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0006" x="716" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0007" x="716" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0008" x="903" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0009" x="1090" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0010" x="1090" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0011" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0012" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATdownnote0013" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0000" x="1464" y="0" width="152" height="155" frameX="-10" frameY="-7" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATleftnote0001" x="1464" y="0" width="152" height="155" frameX="-10" frameY="-7" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATleftnote0002" x="1616" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0003" x="1803" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0004" x="0" y="185" width="187" height="185"/>
+	<SubTexture name="EATleftnote0005" x="0" y="185" width="187" height="185"/>
+	<SubTexture name="EATleftnote0006" x="187" y="185" width="187" height="185"/>
+	<SubTexture name="EATleftnote0007" x="187" y="185" width="187" height="185"/>
+	<SubTexture name="EATleftnote0008" x="374" y="185" width="187" height="185"/>
+	<SubTexture name="EATleftnote0009" x="1090" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0010" x="1090" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0011" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0012" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATleftnote0013" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATrightnote0000" x="561" y="185" width="153" height="155" frameX="-15" frameY="-8" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATrightnote0001" x="561" y="185" width="153" height="155" frameX="-15" frameY="-8" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATrightnote0002" x="714" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0003" x="901" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0004" x="1088" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0005" x="1088" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0006" x="1275" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0007" x="1275" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0008" x="1462" y="185" width="187" height="185"/>
+	<SubTexture name="EATrightnote0009" x="1090" y="0" width="187" height="185"/>
+	<SubTexture name="EATrightnote0010" x="1090" y="0" width="187" height="185"/>
+	<SubTexture name="EATrightnote0011" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATrightnote0012" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATrightnote0013" x="1277" y="0" width="187" height="185"/>
+	<SubTexture name="EATupnote0000" x="1649" y="185" width="155" height="150" frameX="-7" frameY="-7" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0001" x="1649" y="185" width="155" height="150" frameX="-7" frameY="-7" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0002" x="1804" y="185" width="187" height="185" frameX="0" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0003" x="0" y="370" width="187" height="185" frameX="0" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0004" x="187" y="370" width="187" height="185" frameX="0" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0005" x="187" y="370" width="187" height="185" frameX="0" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0006" x="374" y="370" width="187" height="185" frameX="0" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0007" x="374" y="370" width="187" height="185" frameX="0" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0008" x="561" y="370" width="187" height="185" frameX="-13" frameY="0" frameWidth="200" frameHeight="185"/>
+	<SubTexture name="EATupnote0009" x="1090" y="0" width="187" height="185" frameX="-13" frameY="0" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATupnote0010" x="1090" y="0" width="187" height="185" frameX="-13" frameY="0" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATupnote0011" x="1277" y="0" width="187" height="185" frameX="-12" frameY="0" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATupnote0012" x="1277" y="0" width="187" height="185" frameX="-12" frameY="0" frameWidth="187" frameHeight="185"/>
+	<SubTexture name="EATupnote0013" x="1277" y="0" width="187" height="185" frameX="-12" frameY="0" frameWidth="187" frameHeight="185"/>
+</TextureAtlas>

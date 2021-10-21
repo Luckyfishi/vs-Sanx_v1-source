@@ -1,0 +1,8 @@
+idle 0 0
+singUP -37 -2
+singRIGHT -5 22
+singLEFT -13 22
+singDOWN 0 -7
+smile 8 7
+scare -7 -49
+fear 19 13

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sanx_sprites.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sanxchu0000" x="10" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0001" x="10" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0002" x="626" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0003" x="626" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0004" x="1242" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0005" x="1242" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0006" x="1858" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0007" x="1858" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0008" x="2474" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0009" x="2474" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0010" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0011" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0012" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0013" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0014" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0015" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0016" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0017" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0018" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0019" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0020" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0021" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0022" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0023" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0024" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0025" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0026" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0027" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0028" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0029" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0030" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxchu0031" x="3090" y="10" width="600" height="812"/>
+	<SubTexture name="sanxdance0000" x="3706" y="10" width="600" height="812"/>
+	<SubTexture name="sanxdance0001" x="3706" y="10" width="600" height="812"/>
+	<SubTexture name="sanxdance0002" x="4322" y="10" width="600" height="812"/>
+	<SubTexture name="sanxdance0003" x="10" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0004" x="10" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0005" x="626" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0006" x="1242" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0007" x="1242" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0008" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0009" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0010" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0011" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0012" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0013" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0014" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdance0015" x="1858" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0000" x="2474" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0001" x="3090" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0002" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0003" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0004" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0005" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0006" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0007" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0008" x="3706" y="838" width="600" height="812"/>
+	<SubTexture name="sanxdown0009" x="3090" y="838" width="600" height="812"/>
+	<SubTexture name="sanxfear0000" x="4322" y="838" width="600" height="812"/>
+	<SubTexture name="sanxfear0001" x="4322" y="838" width="600" height="812"/>
+	<SubTexture name="sanxfear0002" x="10" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxfear0003" x="10" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxfear0004" x="626" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxfear0005" x="626" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxfear0006" x="1242" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxfear0007" x="1242" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxfear0008" x="1242" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0000" x="1858" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0001" x="2474" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0002" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0003" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0004" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0005" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0006" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0007" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0008" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxleft0009" x="3090" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxright0000" x="3706" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxright0001" x="4322" y="1666" width="600" height="812"/>
+	<SubTexture name="sanxright0002" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0003" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0004" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0005" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0006" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0007" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0008" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxright0009" x="10" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxstop0000" x="626" y="2494" width="578" height="723" frameX="0" frameY="-6" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0001" x="626" y="2494" width="578" height="723" frameX="0" frameY="-6" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0002" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0003" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0004" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0005" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0006" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0007" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0008" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0009" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0010" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0011" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0012" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxstop0013" x="1220" y="2494" width="568" height="729" frameX="-8" frameY="0" frameWidth="578" frameHeight="729"/>
+	<SubTexture name="sanxup0000" x="1804" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0001" x="2420" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0002" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0003" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0004" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0005" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0006" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0007" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0008" x="3036" y="2494" width="600" height="812"/>
+	<SubTexture name="sanxup0009" x="3036" y="2494" width="600" height="812"/>
+</TextureAtlas>
