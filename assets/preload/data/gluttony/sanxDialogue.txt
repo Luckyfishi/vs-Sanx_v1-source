@@ -1,0 +1,34 @@
+:puki:4:fade:......
+:gf:2:nope:??
+:gf:2:nope:He left?
+:bf:5:nope:It must be my rap power that scared him away.
+:gf:1:nope:We are making too much noise and it feels like this fragile castle is crumbling.
+:gf:2:nope:Sanx? Are you okay?
+:CG:5:boxclose:
+:sanx:7:bgfade:......
+:sanx:4:nope:......
+:sanx:2:nope:Well done you two.
+:sanx:4:nope:But I remember you are in a hurry, right? you can leave here now.
+:bf:11:nope:?
+:gf:1:nope:What about you?
+:sanx:2:nope:You have helped me a lot.
+:sanx:7:nope:You know I've been isolated from the outside for over 300 years, even if I leave here.
+:bf:6:nope:Screw it, no more bullsh*t!
+:sanx:3:nope:?
+:bf:6:nope:Just wreck this place!
+:gf:1:nope:Damn, what do you want to do.
+:bf:1:nope:Heroes won't escape!
+:sanx:3:nope:What are you gonna do, you don't have to...
+:gf:2:nope:......
+:gf:1:nope:Don't worry! Come on! Let's go for donuts!
+:sanx:3:nope:What...
+:bf:2:nope:We're already friends! You bet!
+:sanx:6:nope:A-Ah?
+:bf:6:nope:Babe! Turn the stereo up to maximum volume!
+:gf:1:nope:As you wish.
+:sanx:5:cgfade:......
+
+
+
+
+

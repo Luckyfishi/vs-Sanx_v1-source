@@ -1,0 +1,37 @@
+:CG:nope:ca:
+:nope:nope:boxopen:Sanx?
+:nope:nope:nope:Sanx?
+:CG:6:nope:
+:gf:1:boxopen:Are you okay?
+:sanx:3:nope:Couldn't be better.
+:gf:2:nope:I can't believe we......
+:gf:2:nope:...made Pico wait for us all night.
+:sanx:3:nope:......
+:bf:11:nope:When I go back, I'll definitely tell him that he draws very well. Please stop drawing.
+:bf:5:nope:Alright! Let's go for donuts!
+:gf:1:nope:Well.
+:gf:5:nope:I think Pico will understand.
+:sanx:5:nope:
+:sanx:2:nope:
+:end:p:nope:
+:CG:nope:endfade:
+:r:nope:boxopen:Is it a wise decision to let her go like this? Wasn't imprisoning her the only way we could come up with at that time?
+:kurono:nope:nope:It has been long enough, and she has reflected enough to be friendly with humans. This experiment is the best proof.
+:kurono:nope:nope:Bizeer, instead, he can't do it at all. Even for more than 300 years, the conversation between them is not more than ten sentences.
+:r:nope:nope:Arrogance is the root of his nature.
+:r:nope:nope:Despite this, is it really a good idea to delete him?
+:kurono:nope:nope:I will make him come back......Later!
+:r:nope:nope:……For so many years, they have been restraining and fighting each other and became more and more powerful. If they make trouble again, are you sure you can handle that?
+:kurono:nope:nope:Of course.
+:r:nope:nope:……
+:r:nope:nope:You have been enjoying yourself all these years, haven't you?
+:kurono:nope:nope:No!
+:kurono:nope:nope:……
+:kurono:nope:nope:Though I'm a little curious about those two.
+:r:nope:nope:Although more than 300 years have passed and the seal is about to expire......who are these two and why they can do it so easily.
+:kurono:nope:nope:Hum, I'm going!
+:r:nope:nope:Don't get into any trouble. You'd better come back as soon as possible……
+:kurono:nope:nope:Just want to meet them once! Hehe!
+:r:nope:nope:I'm afraid I have to see you locked up like them.
+:kurono:nope:nope:No kidding. I know how to behave!
+:r:nope:nope:Well... good luck.

@@ -1,0 +1,19 @@
+:bf:2:bgfade:Your singing techniques are bland! Far from enough! Is that all you got!
+:sanx:3:nope:You are kinda interesting.
+:gf:1:nope:I think we should continue to find the camping spot. It's completely dark.
+:gf:1:nope:Um, before we leave, I want to ask a question, Miss Sanx, why is this castle so rickety? Do you live here?
+:sanx:2:nope:Yeah, I've been here for a long time.
+:gf:1:nope:......
+:gf:2:nope:......?
+:bf:11:nope:For a long time?
+:sanx:7:nope:Well, just over 300 years.
+:couple:2:nope:???
+:gf:2:nope:But, you, don't look your age.
+:bf:11:nope:April Fool's day has long passed. Why do you still stay here to scare other people? It's dangerous.
+:sanx:4:nope:I cannot leave here unless the conditions are met.
+:gf:1:nope:WTH.
+:sanx:4:nope:Although I'm so bored that I'm going crazy, it's still too sudden to tell people I met for the first time about this.
+:bf:6:nope:Can you just say without mincing words?
+:bf:5:nope:One more round! If I win, you must tell me!
+:gf:2:nope:I think the camping has been postponed indefinitely.
+

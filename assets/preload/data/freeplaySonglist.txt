@@ -1,0 +1,5 @@
+Dopamine:sanx:0
+Enkephalin:sanx:0
+Arrogant:puki:0
+Gluttony:sanx:0
+Mojito:simon:1

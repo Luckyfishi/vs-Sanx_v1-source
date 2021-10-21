@@ -1,0 +1,42 @@
+:CG:1:nope:
+:gf:8:boxopen:Em......
+:gf:7:nope:Honey, I think we've strayed far from the camping spot Pico said.
+:bf:10:nope:Uh, I can understand this map, just give me some time.
+:bf:9:nope:The coverage is terrible here, or I would have made a call. Why these guys like to make things complicated?
+:gf:8:nope:The sun is going down……
+:bf:6:nope:Hey, look ahead. There are some dark buildings.
+:gf:7:nope:......? It's just ruins, and...
+:gf:7:nope:a very old castle?
+:bf:5:nope:It must be Pico's idea. I know it. He likes to play this kind of trick.
+:gf:7:nope:"Camping" in a crumbling castle?
+:gf:6:nope:Although that doesn't sound like a good idea, it's like something that Pico would do.
+:bf:7:nope:Maybe he's been waiting for us for long. Let's hurry.
+:gf:6:nope:Hope so.
+:CG:nope:OpenTheDoor:
+:CG:2:nope:
+:gf:1:boxopen:It feels like this place has been abandoned for a long time.
+:bf:11:nope:......Beep
+:bf:11:nope:Ok, I was wrong.
+:nope:nope:nope:*weird noises*
+:couple:1:nope:.......!!!!!
+:bf:4:nope:Pi......Pico?
+:CG:3:Lightning:
+:couple:1:boxopen&bgfade:......
+:sanx:1:nope:......
+:sanx:4:nope:There are always people who break into my castle for various reasons.
+:sanx:4:nope:This is not a place for young couples like you to test the impact of the suspension bridge.
+:gf:2:nope:No, actually we'll leave here right away.
+:sanx:4:nope:......
+:sanx:4:nope:......Sorry, beautiful lady.
+:sanx:4:nope:You don't have the right to come in and leave freely.
+:sanx:2:nope:If you want to walk around here, you must have the permission of Sanx -- the owner of this castle, in other words, my permission~
+:bf:11:nope:beep……
+:bf:6:nope:Well, if you say so, then let's have a battle......
+:gf:4:nope:Honey.
+:gf:2:nope:Don't forget we are in a hurry.
+:bf:5:nope:Ah, this won't take long, my sweet.
+:sanx:3:nope:……
+:bf:2:nope:I, BF, will become the king of rap, keep that in mind!
+:sanx:3:nope:……
+:sanx:4:nope:Interesting.
+:gf:2:nope:Well…… Here we go agian.

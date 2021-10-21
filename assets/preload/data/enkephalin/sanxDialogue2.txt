@@ -1,0 +1,33 @@
+:sanx:4:bgfade:What a curious person.
+:bf:5:nope:Of course, I can make it as long as I want!
+:sanx:4:nope:Well, where should I start.
+:sanx:7:nope:I was imprisoned here because I made a mistake. This is my punishment. Although I have reflected on myself, I can only stay here.
+:gf:1:nope:Mistake……？
+:bf:11:nope:Beep, why this punishment takes so long? Just thinking about being locked up in such a place without donuts will drive me crazy.
+:sanx:4:nope:Donuts?
+:gf:1:nope:Yeah, many people quite enjoy this kind of food.
+:sanx:4:nope:.....?
+:bf:6:nope:Hey, instead of telling you how donuts taste like, you need to try them by yourself!
+:bf:8:nope:Let's get out of here and find a place where I can get full five bars on my phone first! So I can call Pico and tell him we are going for a donut trip instead of camping!
+:gf:4:nope:He really need to practice drawing more. I don't think we can find the camping spot he drawed.
+:sanx:4:nope:……
+:sanx:4:nope:Sorry, I can't.
+:bf:11:nope:? Why?
+:sanx:2:nope:......in fact, there is something horrible in my body. If I lose control, you will become like those tombstones.
+:gf:3:nope:Oh, Sanx, that joke is not funny.
+:bf:5:nope:If there's really something horrible, I'll get rid of it! I can make it as long as I want!
+:sanx:7:nope:Uh......Maybe I've been imprisoned here for too long, I can't keep up with your modern thinking.
+:sanx:2:nope:But honestly this inexplicable sense of security makes me want to try that donut thing with you!
+:bf:6:nope:Yay!
+:sanx:4:nope:Though, before that, someone is coming.
+:gf:1:nope:.....Who?
+:sanx:4:nope:I don't know his name, but it doesn't matter, I have a name for him, I call him puki.
+:bf:11:nope:There is someone else in this damn place?
+:sanx:2:nope:He is the one in charge of guarding me. Usually we will fight every two days. If we don't get rid of each other, no one can be capable to leave here. This is the rule of this castle. 
+:sanx:2:nope:Although the castle is very old and shabby, it's customized for suppressing us! Maybe I'm the one who trapped Puki here!
+:gf:2:nope:......
+:gf:1:nope:Huh?
+:sanx:2:nope:However I felt something intriguing during our battle. Maybe you can do it!
+:sanx:2:nope:But before that...
+:sanx:1:nope:Dodge!
+:CG:4:chain:
