@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WTFDanceTitle.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="WTFDanceTitle0000" x="10" y="10" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0001" x="1306" y="10" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0002" x="2602" y="10" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0003" x="2602" y="10" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0004" x="10" y="10" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0005" x="10" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0006" x="10" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0007" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0008" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0009" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0010" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0011" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0012" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0013" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="WTFDanceTitle0014" x="1306" y="746" width="1280" height="720"/>
+</TextureAtlas>
