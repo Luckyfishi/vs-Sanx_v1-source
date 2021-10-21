@@ -1,0 +1,11 @@
+:gf:3:bgfade:What! What's that?
+:puki:1:nope:......
+:puki:1:nope:What are you doing
+:bf:3:nope:......
+:bf:11:nope:You must be the one called pu-whatever!
+:puki:1:nope:......
+:puki:1:nope:You know that you can't involve humans in this. Have you forgotten the reason why you were imprisoned.
+:sanx:7:nope:I'm tired of all these things, they should have been over long ago.
+:bf:2:nope:Get out of the way you green bastard!
+:bf:6:nope:We've decided to go for the donuts! Don't waste my time!
+:puki:1:nope:??

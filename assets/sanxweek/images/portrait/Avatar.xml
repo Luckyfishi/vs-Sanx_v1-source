@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Avatar.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF100001" x="10" y="10" width="300" height="300"/>
+	<SubTexture name="BF100000" x="326" y="10" width="300" height="300"/>
+	<SubTexture name="BF110000" x="642" y="10" width="300" height="300"/>
+	<SubTexture name="BF20000" x="958" y="10" width="300" height="300"/>
+	<SubTexture name="BF30000" x="1274" y="10" width="300" height="300"/>
+	<SubTexture name="BF40000" x="1590" y="10" width="300" height="300"/>
+	<SubTexture name="BF50000" x="1906" y="10" width="300" height="300"/>
+	<SubTexture name="BF60000" x="2222" y="10" width="300" height="300"/>
+	<SubTexture name="BF70000" x="2538" y="10" width="300" height="300"/>
+	<SubTexture name="BF80000" x="2854" y="10" width="300" height="300"/>
+	<SubTexture name="BF90000" x="3170" y="10" width="300" height="300"/>
+	<SubTexture name="BG10000" x="3486" y="10" width="390" height="300"/>
+	<SubTexture name="BG20000" x="10" y="326" width="390" height="300"/>
+	<SubTexture name="GF10000" x="416" y="326" width="300" height="300"/>
+	<SubTexture name="GF20000" x="732" y="326" width="300" height="300"/>
+	<SubTexture name="GF30000" x="1048" y="326" width="300" height="300"/>
+	<SubTexture name="GF40000" x="1364" y="326" width="300" height="300"/>
+	<SubTexture name="GF50000" x="1680" y="326" width="300" height="300"/>
+	<SubTexture name="GF60000" x="1996" y="326" width="300" height="300"/>
+	<SubTexture name="GF70000" x="2312" y="326" width="300" height="300"/>
+	<SubTexture name="GF80000" x="2628" y="326" width="300" height="300"/>
+	<SubTexture name="R0000" x="2944" y="326" width="300" height="300"/>
+	<SubTexture name="SANX80000" x="3260" y="326" width="260" height="283"/>
+	<SubTexture name="SANX90000" x="3536" y="326" width="260" height="283"/>
+	<SubTexture name="SIMON10000" x="10" y="642" width="300" height="300"/>
+	<SubTexture name="SIMON20000" x="326" y="642" width="300" height="300"/>
+	<SubTexture name="SIMON30000" x="642" y="642" width="300" height="300"/>
+	<SubTexture name="SIMON40000" x="958" y="642" width="300" height="300"/>
+	<SubTexture name="kurono0000" x="1274" y="642" width="300" height="300"/>
+	<SubTexture name="puki10000" x="1590" y="642" width="300" height="300"/>
+	<SubTexture name="puki20000" x="1906" y="642" width="300" height="300"/>
+	<SubTexture name="puki30000" x="2222" y="642" width="300" height="300"/>
+	<SubTexture name="puki40000" x="2538" y="642" width="300" height="300"/>
+	<SubTexture name="sanx10000" x="2854" y="642" width="300" height="300"/>
+	<SubTexture name="sanx20000" x="3170" y="642" width="300" height="300"/>
+	<SubTexture name="sanx30000" x="3486" y="642" width="300" height="300"/>
+	<SubTexture name="sanx40000" x="10" y="958" width="300" height="300"/>
+	<SubTexture name="sanx50000" x="326" y="958" width="300" height="300"/>
+	<SubTexture name="sanx60000" x="642" y="958" width="300" height="300"/>
+	<SubTexture name="sanx70000" x="958" y="958" width="300" height="300"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PlotCG.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CG10000" x="10" y="10" width="1280" height="720"/>
+	<SubTexture name="CG10001" x="1306" y="10" width="1280" height="720"/>
+	<SubTexture name="CG10002" x="2602" y="10" width="1280" height="720"/>
+	<SubTexture name="CG20000" x="3898" y="10" width="1280" height="720"/>
+	<SubTexture name="CG20001" x="10" y="746" width="1280" height="720"/>
+	<SubTexture name="CG20002" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0000" x="2602" y="746" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0001" x="3898" y="746" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0002" x="3898" y="746" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0003" x="10" y="1482" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0004" x="1306" y="1482" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0005" x="2602" y="1482" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0006" x="2602" y="1482" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0007" x="3898" y="1482" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0008" x="3898" y="1482" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0009" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0010" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0011" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0012" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0013" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG3Lightning0014" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG4Chain0000" x="1306" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG4Chain0001" x="2602" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG50000" x="3898" y="2218" width="1280" height="720"/>
+	<SubTexture name="CG60000" x="10" y="2954" width="1280" height="720"/>
+	<SubTexture name="black0000" x="1306" y="2954" width="1280" height="720"/>
+</TextureAtlas>

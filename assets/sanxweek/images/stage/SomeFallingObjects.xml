@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SomeFallingObjects.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FallingObjects0000" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="FallingObjects0001" x="26" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0002" x="26" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0003" x="1322" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0004" x="1322" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0005" x="2618" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0006" x="2618" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0007" x="3914" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0008" x="3914" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0009" x="5210" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0010" x="5210" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0011" x="6506" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0012" x="6506" y="10" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0013" x="10" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0014" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0015" x="2602" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0016" x="2602" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0017" x="3898" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0018" x="5194" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0019" x="6490" y="746" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0020" x="10" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0021" x="1306" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0022" x="1306" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0023" x="2602" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0024" x="2602" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0025" x="3898" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0026" x="3898" y="1482" width="1280" height="720"/>
+	<SubTexture name="FallingObjects0027" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="FallingObjects0028" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="FallingObjects0029" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="FallingObjects0030" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="FallingObjects0031" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="MoreFallingObjects0000" x="5194" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0001" x="6490" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0002" x="10" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0003" x="1306" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0004" x="2602" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0005" x="3898" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0006" x="3898" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0007" x="5194" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0008" x="5194" y="2218" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0009" x="5210" y="10" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0010" x="5210" y="10" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0011" x="6506" y="10" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0012" x="6506" y="10" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0013" x="10" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0014" x="1306" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0015" x="2602" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0016" x="2602" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0017" x="3898" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0018" x="5194" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0019" x="6490" y="746" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0020" x="10" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0021" x="3914" y="10" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0022" x="1306" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0023" x="2602" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0024" x="2602" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0025" x="3898" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0026" x="3898" y="1482" width="1280" height="720"/>
+	<SubTexture name="MoreFallingObjects0027" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="MoreFallingObjects0028" x="10" y="10" width="0" height="0" frameX="0" frameY="0" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

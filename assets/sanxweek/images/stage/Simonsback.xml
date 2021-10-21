@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Simonsback.png">
+	<!-- Created with Adobe Animate version 20.0.1.19255 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Simonsback0000" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Simonsback0001" x="0" y="0" width="311" height="161"/>
+	<SubTexture name="Simonsback0002" x="311" y="0" width="311" height="161"/>
+	<SubTexture name="Simonsback0003" x="311" y="0" width="311" height="161"/>
+	<SubTexture name="Simonsback0004" x="622" y="0" width="311" height="161"/>
+	<SubTexture name="Simonsback0005" x="622" y="0" width="311" height="161"/>
+	<SubTexture name="Simonsback0006" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0007" x="0" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0008" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0009" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0010" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0011" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0012" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0013" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0014" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0015" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0016" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0017" x="622" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0018" x="622" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0019" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0020" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0021" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0022" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0023" x="622" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0024" x="622" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0025" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0026" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0027" x="311" y="161" width="311" height="161"/>
+	<SubTexture name="Simonsback0028" x="311" y="161" width="311" height="161"/>
+</TextureAtlas>

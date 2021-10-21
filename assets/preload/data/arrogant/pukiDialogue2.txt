@@ -1,0 +1,6 @@
+:CG:nope:ca:
+:puki:2:boxopen&bgfade:......
+:bf:4:nope:......
+:gf:3:nope:.....oh, I feel a little uncomfortable.
+:puki:3:nope:Get out, NOW.
+:end:1:nope:
